@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<STYLE>
+</STYLE>
+  <META CHARSET="UTF-8">
+<TITLE> Katten </TITLE>
+</HEAD>
+<BODY>
+<H1>Deze website gaat over katten</H1>
+<SECTION>
+<H2> Iets </H2>
+<P>
+Dit is text
+<BR>
+Nog meer text
+</P>
+</SECTION>
+</BODY>
+</HTML>
