@@ -1,8 +1,6 @@
 body {
-background-color: #9DD9F3;
-<h1 style="border:2px white;">woord</h1>
-color: white;
-background-color: black;
+text-color: white;
+background-color: rgb(255, 99, 71, o,5);
 opacity: 0,3;
 text-align: center;
 font-family: verdana;
